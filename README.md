@@ -1,24 +1,10 @@
 <div align="center">
-  <img height="150" src="https://tenor.com/en-GB/view/pinguin-gif-25782682"  />
+  <img height="150" src="https://media.tenor.com/oz87QI5ZSScAAAAi/pinguin.gif"  />
 </div>
 
 ###
 
-<div align="center">
-  <a href="www.linkedin.com/in/matej-kovacevic-dev" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-  <a href="kovacevicmatej2@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
-  </a>
-  <a href="https://wa.link/1c68t8" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="whatsapp logo"  />
-  </a>
-</div>
-
-###
-
-<h1 align="center">hey there 👋</h1>
+<h1 align="left">hey there <img src="https://media2.giphy.com/media/oqdXGP2sH3jyBnwQtV/giphy.gif?cid=6c09b952rslh5ac53tydctkrayl4x5xvxjmy5wn30wxr168y&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=s" width=50 /></h1>
 
 ###
 
@@ -26,7 +12,7 @@
 
 ###
 
-<p align="left">I'm Matej from Croatia.<br><br>- 🔭 I’m working as Linux Admin<br>- 📚 I'm currently learning DevOps<br>- ⚡ In my free time I detail cars</p>
+<p align="left">I'm Matej linux admin working in Touch support from Croatia.<br><br>- 🔭 I’m working as Linux Admin managing approximately 1400 servers within a dynamic environment, addressing diverse technical needs ranging from basic <br>configurations to complex troubleshooting tasks<br>- 📚 I'm currently learning DevOps, CI/CD concepts, and many of it tools<br>- ⚡ In my free time I like to clean and detail cars, it helps me to teach me to have an eye for details</p>
 
 ###
 
@@ -56,10 +42,14 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="40" alt="apache logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="40" alt="nginx logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="40" alt="wordpress logo"  />
 </div>
-
-###
-
-<h3 align="left">🔥   My Stats :</h3>
 
 ###
