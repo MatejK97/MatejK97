@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">I'm Matej Linux Admin working in Touch support from Croatia.<br><br>- 🔭 I’m working as Linux Admin managing approximately 1400 servers within a dynamic environment, addressing diverse technical needs ranging from basic to configurations to complex troubleshooting tasks<br>- 📚 I'm currently learning DevOps, CI/CD concepts, and many of it tools<br>- ⚡ In my free time I like to clean and detail cars, it helps me to teach me to have an eye for details</p>
+<p align="left">I'm Matej Linux Admin working in Touch support from Croatia.<br><br>- 🔭 I’m working as Linux Admin managing approximately 1400 servers within a dynamic environment, addressing diverse technical needs ranging from basic to configurations to complex troubleshooting tasks<br>- 📚 I'm currently learning DevOps, CI/CD concepts, and many of it tools<br>- ⚡ In my free time I like to clean and detail cars, teachs me to have an eye for details</p>
 
 ###
 
