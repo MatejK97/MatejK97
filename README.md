@@ -1,55 +1,70 @@
-<div align="center">
-  <img height="150" src="https://media.tenor.com/oz87QI5ZSScAAAAi/pinguin.gif"  />
-</div>
+# Hi, I'm Matej 👋
 
-###
+**DevOps & platform engineer** from Zagreb, Croatia: Kubernetes, GitOps,
+CI/CD and self-hosted infrastructure.
 
-<h1 align="left">hey there <img src="https://media2.giphy.com/media/oqdXGP2sH3jyBnwQtV/giphy.gif?cid=6c09b952rslh5ac53tydctkrayl4x5xvxjmy5wn30wxr168y&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=s" width=50 /></h1>
+- 💼 **System Engineer at Enlayer** (formerly Telelink Business Services),
+  looking after customers' production server environments
+- 🏗️ Building and running a **production-style homelab**: a cloud VPS and a
+  home VM over WireGuard, GitLab CI/CD, k3s deployed by ArgoCD, full
+  observability, encrypted backups, all of it in Git
+- 📚 Studying for **AWS Solutions Architect Associate** (exam November 2026),
+  then the **CKA**
 
-###
+## 🏗️ Homelab
 
-<h3 align="left">👩‍💻  About Me</h3>
+[![Homelab architecture](https://raw.githubusercontent.com/MatejK97/homelab/main/docs/architecture.png)](https://github.com/MatejK97/homelab)
 
-###
+Everything is code, every change goes through a merge request, and every
+service is monitored. Highlights:
 
-<p align="left">I'm Matej Linux Admin working in Touch support from Croatia.<br><br>- 🔭 I’m working as Linux Admin managing approximately 1400 servers within a dynamic environment, addressing diverse technical needs ranging from basic to configurations to complex troubleshooting tasks<br>- 📚 I'm currently learning DevOps, CI/CD concepts, and many of it tools<br>- ⚡ In my free time I like to clean and detail cars, teachs me to have an eye for details</p>
+- **GitOps:** ArgoCD app-of-apps, SOPS-encrypted secrets, Renovate MRs for
+  every image and chart update
+- **CI/CD & DevSecOps:** shared GitLab CI templates, gitleaks and Trivy in every
+  pipeline, scoped deploy keys
+- **Observability:** Prometheus, Grafana, Loki and Alloy, alert rules as code,
+  email alerts and a dead man's switch
+- **IaC:** Terraform for GitLab itself, Ansible for the hosts
+- **Security:** admin UIs reachable only over WireGuard, key-only SSH,
+  append-only off-site backups
 
-###
+| Repository | |
+|---|---|
+| [homelab](https://github.com/MatejK97/homelab) | The full write-up: architecture, decisions, lessons learned |
+| [gitops](https://github.com/MatejK97/gitops) | Everything on the k3s cluster, deployed by ArgoCD |
+| [ci-templates](https://github.com/MatejK97/ci-templates) | Shared GitLab CI pipelines with security scanning |
+| [terraform](https://github.com/MatejK97/terraform) | GitLab's own configuration as code |
+| [traefik](https://github.com/MatejK97/traefik) | Reverse proxy with public and VPN-only entrypoints |
 
-<h3 align="left">🛠 Language and tools</h3>
+## 🛠️ Tools
 
-###
+**Platform**
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+![k3s](https://img.shields.io/badge/k3s-FFC61C?style=flat&logo=k3s&logoColor=black)
+![Helm](https://img.shields.io/badge/Helm-0F1689?style=flat&logo=helm&logoColor=white)
+![Windows Server](https://img.shields.io/badge/Windows_Server-0078D4?style=flat&logo=windows&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white)
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" height="40" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" height="40" alt="jenkins logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" height="40" alt="ansible logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="40" alt="terraform logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="40" alt="apache logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="40" alt="nginx logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="40" alt="wordpress logo"  />
-</div>
+**CI/CD & automation**
+![GitLab CI](https://img.shields.io/badge/GitLab_CI-FC6D26?style=flat&logo=gitlab&logoColor=white)
+![Argo CD](https://img.shields.io/badge/Argo_CD-EF7B4D?style=flat&logo=argo&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=flat&logo=terraform&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat&logo=ansible&logoColor=white)
+![Renovate](https://img.shields.io/badge/Renovate-1A1F6C?style=flat&logo=renovate&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat&logo=powershell&logoColor=white)
 
-###
+**Observability & networking**
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white)
+![Loki](https://img.shields.io/badge/Loki-F46800?style=flat&logo=grafana&logoColor=white)
+![Traefik](https://img.shields.io/badge/Traefik-24A1C1?style=flat&logo=traefikproxy&logoColor=white)
+![WireGuard](https://img.shields.io/badge/WireGuard-88171A?style=flat&logo=wireguard&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=cloudflare&logoColor=white)
+
+## 📫 Contact
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matej-kovacevic-dev/)
