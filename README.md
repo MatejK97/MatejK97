@@ -8,8 +8,8 @@ CI/CD and self-hosted infrastructure.
 - 🏗️ Building and running a **production-style homelab**: a cloud VPS and a
   home VM over WireGuard, GitLab CI/CD, k3s deployed by ArgoCD, full
   observability, encrypted backups, all of it in Git
-- 📚 Studying for **AWS Solutions Architect Associate** (exam November 2026),
-  then the **CKA**
+- 🎓 **AWS Certified Solutions Architect – Associate**, now studying for the
+  **CKA**
 
 ## 🏗️ Homelab
 
