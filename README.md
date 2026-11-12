@@ -36,6 +36,15 @@ service is monitored. Highlights:
 | [terraform](https://github.com/MatejK97/terraform) | GitLab's own configuration as code |
 | [traefik](https://github.com/MatejK97/traefik) | Reverse proxy with public and VPN-only entrypoints |
 
+## 🎓 Certifications
+
+[![AWS Certified Solutions Architect – Associate](https://img.shields.io/badge/AWS_Solutions_Architect-Associate-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)](https://www.credly.com/badges/99ed28a7-5058-4d3f-aad8-4e5db7ffb5ad/public_url)
+[![AWS Certified Cloud Practitioner](https://img.shields.io/badge/AWS_Cloud_Practitioner-Foundational-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)](https://www.credly.com/badges/961d38e7-ac95-4888-8016-b921b3c1dec1/public_url)
+[![LPIC-1](https://img.shields.io/badge/LPIC--1-Linux_Professional_Institute-1F2A5C?style=for-the-badge&logo=linux&logoColor=white)](https://www.credly.com/badges/af02df32-bbcf-48b7-a43a-b6c7eb931ec6/public_url)
+
+Next up: **Certified Kubernetes Administrator (CKA)**. Each badge links to its
+verified record on Credly.
+
 ## 🛠️ Tools
 
 **Platform**
